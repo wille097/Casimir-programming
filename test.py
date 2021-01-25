@@ -7,3 +7,5 @@ def circumference_circle(radius):
 
 def area _circle(radius)
 	return np.pi*radius**2
+
+print('this and this')
